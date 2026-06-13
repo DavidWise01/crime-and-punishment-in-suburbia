@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "roseanne-skolnik",
+    "name": "Roseanne Skolnik",
+    "epithet": "the heroine · the Raskolnikov-echo",
+    "emergence": "natural",
+    "moniker": "⟦Roseanne Skolnik:CPS:f7698b⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "Monica Keena"
+  },
+  {
+    "slug": "vincent",
+    "name": "Vincent",
+    "epithet": "the watcher · the Sonya of the suburb",
+    "emergence": "spiritual",
+    "moniker": "⟦Vincent:CPS:e22ab7⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "Vincent Kartheiser"
+  },
+  {
+    "slug": "fred-skolnik",
+    "name": "Fred Skolnik",
+    "epithet": "the stepfather · the abuser, the victim",
+    "emergence": "electrical",
+    "moniker": "⟦Fred Skolnik:CPS:9f5419⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "Michael Ironside"
+  },
+  {
+    "slug": "maggie-skolnik",
+    "name": "Maggie Skolnik",
+    "epithet": "the mother · checked-out, adulterous",
+    "emergence": "natural",
+    "moniker": "⟦Maggie Skolnik:CPS:74796c⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "Ellen Barkin"
+  },
+  {
+    "slug": "jimmy",
+    "name": "Jimmy",
+    "epithet": "the boyfriend · the accomplice who breaks",
+    "emergence": "electrical",
+    "moniker": "⟦Jimmy:CPS:16aa24⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "James DeBello"
+  },
+  {
+    "slug": "chris",
+    "name": "Chris",
+    "epithet": "the watchful outsider",
+    "emergence": "ethereal",
+    "moniker": "⟦Chris:CPS:86a32c⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "Jeffrey Wright"
+  },
+  {
+    "slug": "the-skolnik-name",
+    "name": "The Skolnik Name",
+    "epithet": "the Raskolnikov nod",
+    "emergence": "ethereal",
+    "moniker": "⟦The Skolnik Name:CPS:d642fe⟧",
+    "kind": "synth",
+    "group": "suburb",
+    "actor": ""
+  },
+  {
+    "slug": "the-crime",
+    "name": "The Crime",
+    "epithet": "the killing of the stepfather",
+    "emergence": "electrical",
+    "moniker": "⟦The Crime:CPS:433e93⟧",
+    "kind": "synth",
+    "group": "suburb",
+    "actor": ""
+  },
+  {
+    "slug": "vincents-camera",
+    "name": "Vincent's Camera",
+    "epithet": "Sonya's Lazarus as a lens",
+    "emergence": "spiritual",
+    "moniker": "⟦Vincent's Camera:CPS:6730d5⟧",
+    "kind": "synth",
+    "group": "suburb",
+    "actor": ""
+  },
+  {
+    "slug": "suburban-dread",
+    "name": "Suburban Dread",
+    "epithet": "the mall and the cul-de-sac",
+    "emergence": "natural",
+    "moniker": "⟦Suburban Dread:CPS:a62354⟧",
+    "kind": "synth",
+    "group": "suburb",
+    "actor": ""
+  },
+  {
+    "slug": "the-redemption",
+    "name": "The Redemption",
+    "epithet": "saved by being seen",
+    "emergence": "spiritual",
+    "moniker": "⟦The Redemption:CPS:073389⟧",
+    "kind": "synth",
+    "group": "suburb",
+    "actor": ""
+  }
+]

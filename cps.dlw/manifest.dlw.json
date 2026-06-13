@@ -1,0 +1,13 @@
+{
+  "node": "CPS",
+  "name": "CRIME + PUNISHMENT IN SUBURBIA",
+  "moniker": "⟦CRIME + PUNISHMENT IN SUBURBIA:CPS:1b9983⟧",
+  "carbon": "cps.carbon.tiff",
+  "silicon": "cps.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "It kept Dostoevsky's heart and dropped his head — the crime, the guilt, and the redeeming witness survive; the philosophy does not, and it's named Skolnik so you'd know.",
+  "seal_sha256": "2b8d53a29e612e8dbbecb4d07f2ec6c42488f8d4040cc701dd0d2d50caaffce0",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
